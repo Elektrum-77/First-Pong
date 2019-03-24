@@ -57,7 +57,7 @@ function love.load()
     if c3 > 1 then c3 = -1 end
     if c3 > -0.3 and c3 < 0 then c3 = 0.3 end
     
-    print(c1, c2, c3)
+    --print(c1, c2, c3)
     self.color[id] = {c1, c2, c3}
     
     local speed = self.speed
