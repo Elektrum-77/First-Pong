@@ -14,4 +14,4 @@ The boost lets you go faster but if you used it too much you will be insvisible.
 To change the key just open playerse_key_config (you can open it with notepad) and modifie it. for further information about what key you can put just go an that website :
 https://love2d.org/wiki/KeyConstant
 
-To play the game you launch the Game.exe
+To play the game you need to launch the Game.exe
