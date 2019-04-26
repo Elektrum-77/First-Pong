@@ -22,7 +22,7 @@ To play the game you need to do some easy step : ( IF YOU WANT TO CHANGE THE KEY
 
 step #0-	follow what is say above about how to change the key
 
-step #1-	select all LUA type file
+step #1-	select all LUA files
 
 step #2-	right click on main.lua
 
