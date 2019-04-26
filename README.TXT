@@ -15,7 +15,7 @@ To change the key just open playerse_key_config (you can open it with notepad) a
 https://love2d.org/wiki/KeyConstant
 
 to play the game : ( ONLY IF YOU DON'T WANT TO CHANGE THE KEY CONFIG )
-- just drag & drop the file main.zip on love.exe and have fun ^^
+- just drag & drop the file main.zip on love.exe and have fun.
 
 
 To play the game you need to do some easy step : ( IF YOU WANT TO CHANGE THE KEY CONFIG )
@@ -31,3 +31,5 @@ step #3-	send to -> compressed(zipped) folder
 step #4-	take the new file you have created and dropt it on love.exe
 
 step #5-	Have fun with your friend(s) :3
+
+PS: there isn't score limit so it's up to you to decide how and who win ^^
